@@ -6,6 +6,8 @@ This project is part 2 of the "Using JavaScript in Websites" course from the Fro
 
 ![Screenshot](assets/images/screenshot.png)
 
+## Live Site
+
 You can view live version of the project [here](https://swiper-gallery-project.netlify.app/).
 
 ## Features
